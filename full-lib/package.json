@@ -1,0 +1,19 @@
+{
+  "name": "full-lib",
+  "version": "1.0.0",
+  "description": "full lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dungctt101/full-lib.git"
+  },
+  "author": "dung.dang1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dungctt101/full-lib/issues"
+  },
+  "homepage": "https://github.com/dungctt101/full-lib#readme"
+}
